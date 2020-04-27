@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="qt">
+    <file>Resources/ok.jfif</file>
+    <file>Resources/TB.png</file>
+    <file>Resources/timg.jfif</file>
+    <file>Resources/PC.png</file>
+    <file>Resources/PC-light.png</file>
+    <file>Resources/PC-light-select.png</file>
+  </qresource>
+</RCC>
